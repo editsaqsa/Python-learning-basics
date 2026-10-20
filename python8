@@ -1,0 +1,4 @@
+age = int(input("16:"))
+next_year_age = age+1
+print("next year my age is:",next_year_age)
+
